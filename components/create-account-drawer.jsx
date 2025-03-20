@@ -75,7 +75,7 @@ const onSubmit=async(data)=>{
                 onValueChange={(value)=>setValue("type",value)}
                 defaultValue={watch("type")}
               >
-                  <SelectTrigger id="type">
+                  <SelectTrigger id="type" className="w-full">
                       <SelectValue placeholder="Select Type" />
                    </SelectTrigger>
                    <SelectContent>
@@ -100,7 +100,9 @@ const onSubmit=async(data)=>{
             
             <div className="flex items-center justify-between rounded-lg border p-3">
               <div className='space-y-0.5'>
-              <label htmlFor="isDefault" className='text-sm font-medium cursor-pointer'>Set as Default</label>
+              <label htmlFor="isDefault" className='text-sm font-medium cursor-pointer'>
+                Set as Default
+              </label>
               <p className='text-sm text-muted-foreground'>This account will be selected by default for transactions</p>
               </div>
              

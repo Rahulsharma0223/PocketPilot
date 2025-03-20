@@ -257,7 +257,7 @@ const TransactionTable = ({transactions}) => {
         <TableBody>
           {filterAndSortedTransactions.length===0?(
               <TableRow>
-                <TableCell colspan={7} className="text-center text-muted-foreground">
+                <TableCell colSpan={7} className="text-center text-muted-foreground">
                   No Transactions Found
                 </TableCell>
               </TableRow>
