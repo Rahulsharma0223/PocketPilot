@@ -45,10 +45,7 @@ Then open **[http://localhost:3000](http://localhost:3000)** in your browser.
 ┣ 📂 components # Reusable UI components
 ┣ 📂 public # Static assets (images, icons, etc.)
 ┣ 📜 package.json
-┗ ...
-
-text
-
+┗
 ---
 
 ## 📚 Learn More
