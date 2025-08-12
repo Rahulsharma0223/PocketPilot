@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Pocket Pilot - Finance Tracker
 
-## Getting Started
+![Pocket Pilot Screenshot](public/pocket%20pilot.jpg)
 
-First, run the development server:
+A modern and efficient **Finance Tracker** built with [Next.js](https://nextjs.org) to help you manage your expenses with **speed**, **simplicity**, and **style**.
 
-```bash
+---
+
+## ✨ Features
+- 💰 **Track Expenses & Income** in real-time
+- 📊 Interactive charts & analytics
+- 🔄 Automatic data refresh with `ISR` & `SSR`
+- 📱 Fully responsive design
+
+---
+
+## 🛠 Getting Started
+
+Follow these steps to run the app locally:
+
+Install dependencies
+npm install
+
+Run the development server
 npm run dev
-# or
+
+or
 yarn dev
-# or
+
+or
 pnpm dev
-# or
+
+or
 bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+text
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Then open **[http://localhost:3000](http://localhost:3000)** in your browser.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📂 Project Structure
+📦 financetracker
+┣ 📂 app # Next.js app directory
+┣ 📂 components # Reusable UI components
+┣ 📂 public # Static assets (images, icons, etc.)
+┣ 📜 package.json
+┗ ...
 
-To learn more about Next.js, take a look at the following resources:
+text
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📚 Learn More
 
-## Deploy on Vercel
+- 📘 [Next.js Docs](https://nextjs.org/docs) – Learn the features and API of Next.js
+- 🎓 [Learn Next.js](https://nextjs.org/learn) – Interactive tutorial
+- 💡 [Vercel](https://vercel.com) – Deploy seamlessly
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚀 Deployment
+
+Deploy your application in seconds with **[Vercel](https://vercel.com)**:
+
+1. Push your repo to GitHub  
+2. Import it to Vercel  
+3. Deploy 🚀
+
+---
+
+## ❤️ Contributing
+
+Found a bug or have a feature request?  
+Open an **issue** or submit a **pull request**.
+
+---
+
+## 📜 License
+MIT License © 2025 Rahul Sharma
