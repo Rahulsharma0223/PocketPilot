@@ -30,10 +30,7 @@ yarn dev
 or
 pnpm dev
 
-or
-bun dev
 
-text
 
 Then open **[http://localhost:3000](http://localhost:3000)** in your browser.
 
